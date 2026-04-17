@@ -1,4 +1,4 @@
-# The Immutable Global Data Guard
+# AWS Immutable Backup & Disaster Recovery System
 
 ##  Goal
 
